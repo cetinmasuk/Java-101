@@ -1,4 +1,4 @@
-package Baslangic;
+package TemelKavramlarVeDegiskenler;
 
 public class Giris {
     //Ana metotu yazmak için kısa  yollar: psvm || main kullanılır.
